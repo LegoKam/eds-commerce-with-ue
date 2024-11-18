@@ -10,10 +10,10 @@
       "/content/ue-commerce/placeholders:/placeholders.json",
       "/content/ue-commerce/products/recommended-products:/products/recommended-products.json",
       "/content/ue-commerce/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products:/images/products/"
+      "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
       "/content/ue-commerce",
-      "/content/dam/citisignal/images/products"
+      "/content/dam/citisignal/images/products/"
     ]
 }
