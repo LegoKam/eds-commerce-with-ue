@@ -4,15 +4,10 @@ This project boilerplate is for Edge Delivery Services projects that integrate w
 ## Documentation
 https://experienceleague.adobe.com/developer/commerce/storefront/
 
-## Environments - Doc-based
-
-- Preview: https://main--citisignal-doc--adobedevxsc.aem.page/
-- Live: https://main--citisignal-doc--adobedevxsc.aem.live/
-
 ## Environments - AEM UE + Crosswalk
 
-- Preview: https://main--citisignal-one--adobedevxsc.aem.page/
-- Live: https://main--citisignal-one--adobedevxsc.aem.live/
+- Preview: https://main--eds-commerce-with-ue--legokam.hlx.page
+- Live: https://main--eds-commerce-with-ue--legokam.hlx.live
 
 ## Pre-requisites
 
